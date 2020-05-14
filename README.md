@@ -1,6 +1,4 @@
 # siskakrislim.github.io
-<!doctype html>
-<html>
 <head>
 <title>Home</title>
 <link href="styles.css" rel="stylesheet" type="text/css" />
@@ -48,4 +46,3 @@ To view more information about Siska, a linkedin URL is provided to you <a href=
 </form>
 </footer>
 </body>
-</html>
